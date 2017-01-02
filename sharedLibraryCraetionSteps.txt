@@ -1,0 +1,8 @@
+Step1: gcc -Wall -fPIC -c foo.c
+
+Step2: gcc -shared -o libfoo.so foo.o
+
+Step3: gcc -L/home/username/workingDIR -Wall -o test main.c -lfoo
+
+Note: for 32 bit
+append "-m32" in all steps
