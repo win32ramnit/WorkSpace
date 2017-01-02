@@ -1,0 +1,20 @@
+hello python file handling
+hh
+d
+d
+d
+d
+dd
+
+
+[]
+null
+[[]]
+\n
+\0
+'\0'
+['\0']
+
+
+
+
